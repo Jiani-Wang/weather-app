@@ -7,13 +7,6 @@
   gap: 2px;
 }
 
-.search-bar {
-  display: flex;
-  gap: 8px;
-  justify-content: flex-end;
-  margin-bottom: 16px;
-}
-
 .flex {
   display: flex;
   gap: 20px;
@@ -21,8 +14,6 @@
 
 .weekly-section-wrapper {
   display: flex;
-  /* gap: 24px; */
-  /* align-items: stretch; */
   width: 100%;
 }
 
@@ -32,32 +23,4 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
-
-.contact-box {
-  width: 100%;
-  padding: 24px;
-  background: white;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-  border-radius: 10px;
-  font-size: 14px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.social-icons {
-  display: flex;
-  justify-content: center;
-  gap: 36px;
-  margin-top: 20px;
-}
-
-.social-icons a {
-  color: #555;
-  transition: color 0.2s ease;
-}
-
-.social-icons a:hover {
-  color: #000;
 }

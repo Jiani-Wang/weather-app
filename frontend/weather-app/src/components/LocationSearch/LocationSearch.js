@@ -1,4 +1,3 @@
-// src/components/LocationSearch/LocationSearch.js
 import React, { useState } from "react";
 import "./LocationSearch.css";
 
